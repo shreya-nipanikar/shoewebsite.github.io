@@ -342,7 +342,7 @@ nav ul li a:hover {
       background: rgba(86, 86, 86, 0.3);
       backdrop-filter: blur(10px);
       top: 0;
-      right: 0;
+      right: -200px;
       position: absolute;
       text-align: left;
       z-index: 4;
